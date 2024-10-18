@@ -1,24 +1,26 @@
 # MyBank Demo
 
-A simple bank demo that simulates a Tab feature where users can create custom tabs, assign names, descriptions, and amounts, and see how it affects the overall balance.
+MyBank is a simple banking demo that allows users to create custom tabs for managing finances. Users can assign names, descriptions, and amounts to these tabs and observe how the overall balance changes accordingly.
+
+While this is a conceptual demo, a full-featured version may be developed in the future, with potential support for Android and iOS.
 
 ## Features
 
-- **Starting Balance**: Users start with a default balance.
-- **Custom Tabs**: Create custom tabs with names, small descriptions, and allocated amounts.
-- **Balance Tracking**: Track how your balance changes as you allocate funds to different tabs.
-- **User-friendly Interface**: Minimalistic and responsive design for ease of use.
+- **Starting Balance**: Begin with a default balance to manage.
+- **Custom Tabs**: Create personalized financial tabs with a name, description, and allocated amount.
+- **Balance Tracking**: Real-time updates on the overall balance based on tab allocations.
+- **User-friendly Interface**: Minimalistic, responsive design for easy navigation and interaction.
 
 ## Demo Preview
-## [Click For Demo](https://appdemo.birdo.ovh)
+**[Click here for a live demo](https://appdemo.birdo.ovh)**  
 ![MyBank Demo](https://github.com/user-attachments/assets/ded59947-a449-4fea-850f-33472b32c815)
 
 ## Technologies Used
 
 - **HTML5**: Structure of the web page.
-- **CSS3**: Styling and layout.
-- **JavaScript**: Handles dynamic tab creation and balance tracking.
-  
+- **CSS3**: Styling and layout for a modern interface.
+- **JavaScript**: Handles dynamic tab creation, balance updates, and interactivity.
+
 ## How to Use
 
 1. Clone the repository to your local machine:
@@ -33,19 +35,20 @@ A simple bank demo that simulates a Tab feature where users can create custom ta
 
 3. Open the `index.html` file in your browser:
     ```bash
-    python3 -m http.server --bind 0.0.0.0 /
-    python3 -m http.server --bind 0.0.0.0 8555 /
-    For port below 1024 
-    sudo python3 -m http.server --bind 0.0.0.0 80 
+    python3 -m http.server --bind 0.0.0.0 8555
+    ```
+   If using a port below 1024:
+    ```bash
+    sudo python3 -m http.server --bind 0.0.0.0 80
     ```
 
-4. Start creating your financial tabs by entering a tab name, description, and amount.
+4. Start adding financial tabs by entering a name, description, and amount, and see how it impacts the balance.
 
 ## Future Enhancements
 
-- Add tab editing and deletion functionality.
-- Integrate with a simple JS to store tab data persistently.
-- Include user authentication for personalized tab management.
+- Add options for editing and deleting tabs.
+- Integrate local storage for persistent data management.
+- Include user authentication for personalized tabs and balance history.
 
 ## License
 
@@ -57,4 +60,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Feel free to explore and contribute to this project!
+Feel free to explore, contribute, and provide feedback!
