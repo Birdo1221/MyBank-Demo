@@ -10,11 +10,8 @@ A simple bank demo that simulates a Tab feature where users can create custom ta
 - **User-friendly Interface**: Minimalistic and responsive design for ease of use.
 
 ## Demo Preview
-
-![MyBank Demo](https://github.com/user-attachments/assets/ded59947-a449-4fea-850f-33472b32c815)
-
-
 [Demo Link](https://appdemo.birdo.ovh)
+![MyBank Demo](https://github.com/user-attachments/assets/ded59947-a449-4fea-850f-33472b32c815)
 
 ## Technologies Used
 
