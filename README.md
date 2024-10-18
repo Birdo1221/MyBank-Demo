@@ -12,7 +12,7 @@ While this is a conceptual demo, a full-featured version may be developed in the
 - **User-friendly Interface**: Minimalistic, responsive design for easy navigation and interaction.
 
 ## Demo Preview
-**[Click here for a live demo](https://appdemo.birdo.ovh)**  
+## **[Click here for a live demo](https://appdemo.birdo.ovh)**  
 ![MyBank Demo](https://github.com/user-attachments/assets/ded59947-a449-4fea-850f-33472b32c815)
 
 - **HTML5**: Structure of the web page.
