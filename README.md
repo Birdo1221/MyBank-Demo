@@ -15,8 +15,6 @@ While this is a conceptual demo, a full-featured version may be developed in the
 **[Click here for a live demo](https://appdemo.birdo.ovh)**  
 ![MyBank Demo](https://github.com/user-attachments/assets/ded59947-a449-4fea-850f-33472b32c815)
 
-## Technologies Used
-
 - **HTML5**: Structure of the web page.
 - **CSS3**: Styling and layout for a modern interface.
 - **JavaScript**: Handles dynamic tab creation, balance updates, and interactivity.
@@ -58,6 +56,3 @@ This project is licensed under the MIT License.
 
 [GitHub Profile](https://github.com/Birdo1221)
 
----
-
-Feel free to explore, contribute, and provide feedback!
