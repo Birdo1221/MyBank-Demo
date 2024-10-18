@@ -11,7 +11,8 @@ A simple bank demo that simulates a Tab feature where users can create custom ta
 
 ## Demo Preview
 
-![MyBank Demo](demo-preview.png) *(Add a preview image if available)*
+![MyBank Demo](https://github.com/user-attachments/assets/ded59947-a449-4fea-850f-33472b32c815)
+
 
 [Demo Link](https://appdemo.birdo.ovh)
 
