@@ -13,7 +13,7 @@ A simple bank demo that simulates a Tab feature where users can create custom ta
 
 ![MyBank Demo](demo-preview.png) *(Add a preview image if available)*
 
-[MyBank Link](https://appdemo.birdo.ovh)
+[Demo Link](https://appdemo.birdo.ovh)
 
 ## Technologies Used
 
@@ -36,7 +36,8 @@ A simple bank demo that simulates a Tab feature where users can create custom ta
 3. Open the `index.html` file in your browser:
     ```bash
     python3 -m http.server --bind 0.0.0.0 /
-    python3 -m http.server --bind 0.0.0.0 8555 / for below 1024
+    python3 -m http.server --bind 0.0.0.0 8555 /
+    For port below 1024 
     sudo python3 -m http.server --bind 0.0.0.0 80 
     ```
 
