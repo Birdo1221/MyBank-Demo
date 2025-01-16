@@ -1,8 +1,11 @@
 # MyBank Demo
 
 MyBank is a simple banking demo that allows users to create custom tabs for managing finances. Users can assign names, descriptions, and amounts to these tabs and observe how the overall balance changes accordingly.
+While this is a  demo, a full-featured version may be developed, with potential for Android and maybe iOS.
 
-While this is a conceptual demo, a full-featured version may be developed in the future, with potential support for Android and iOS.
+## Demo Preview
+## **[Click here for a live demo](https://appdemo.birdo.ovh)**  
+![MyBank Demo](https://github.com/user-attachments/assets/2352f876-89bf-4b0d-8eee-97141867da53)
 
 ## Features
 
@@ -10,11 +13,6 @@ While this is a conceptual demo, a full-featured version may be developed in the
 - **Custom Tabs**: Create personalized financial tabs with a name, description, and allocated amount.
 - **Balance Tracking**: Real-time updates on the overall balance based on tab allocations.
 - **User-friendly Interface**: Minimalistic, responsive design for easy navigation and interaction.
-
-## Demo Preview
-## **[Click here for a live demo](https://appdemo.birdo.ovh)**  
-![MyBank Demo](https://github.com/user-attachments/assets/ded59947-a449-4fea-850f-33472b32c815)
-
 - **HTML5**: Structure of the web page.
 - **CSS3**: Styling and layout for a modern interface.
 - **JavaScript**: Handles dynamic tab creation, balance updates, and interactivity.
